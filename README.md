@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/f1b11b54-642d-49bc-b2cc-a25d9
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# Coop-Roofing-Demo-Site
